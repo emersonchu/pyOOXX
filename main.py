@@ -11,7 +11,7 @@ app = FastAPI()
 
 # 只允許你的 GitHub Pages 網域（把 YOUR_NAME 換成你的 GitHub 帳號）
 ALLOWED_ORIGINS = [
-    "https://YOUR_NAME.github.io",
+    "https://emersonchu.github.io",
     "http://localhost:5173",  # 本地測試保留
 ]
 
